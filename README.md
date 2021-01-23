@@ -1,4 +1,7 @@
-### Hi there 👋
+Hi there! I'm an engineer that loves computer science!
+
+### "Be soo good they can't ignore you" - working on it...
+
 
 <!--
 **rodrigo-estrela/rodrigo-estrela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
